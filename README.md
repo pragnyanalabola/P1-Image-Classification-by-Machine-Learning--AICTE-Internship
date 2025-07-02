@@ -5,6 +5,6 @@ I have done this project to classify images by using CNNmodel and Pre Trained Mo
 
 ## How to rum the code
 
-
+streamlit run newapp.py
 
 ### Ack
